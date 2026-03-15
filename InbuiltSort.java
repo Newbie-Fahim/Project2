@@ -9,7 +9,7 @@ O(n*log(n)) << O(n^2){Selection,Insertion,Bubble}
 Arrays(arr[],S.I,E.I)
 S.I : Starting Index
 E.I : Ending Index
-Arrays.sort(Collections.reverseOrder())
+Arrays.sort(arr,Collections.reverseOrder())
 Only for "Integer" object
 */
 import java.util.*;
