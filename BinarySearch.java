@@ -2,7 +2,7 @@
    Pre-requisite : Array must be sorted
    Time Complexity : O(log n)
    Space Complexity: O(1)
-/*
+*/
 import java.util.*;
 class BinarySearch{
     public static int BinarySearch(int number[], int key) {
