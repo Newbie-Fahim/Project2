@@ -1,6 +1,7 @@
-//Time Complexity:O(n^2)
-//Time Complexity is same as Bubble Sort, but time reqired is less
-//than bubble sort.
+/*
+   Time Complexity:O(n^2)
+   Time Complexity is same as Bubble Sort,     but time reqired is lessthan bubble sort.
+*/
 import java.util.*;
 public class SelectionSort{
 public static void SelectionSorting(int[] arr){
